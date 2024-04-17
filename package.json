@@ -1,5 +1,5 @@
 {
-  "name": "adlergmbh",
+  "name": "a",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -39,5 +39,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This project is created for react redux and github. Please Don't care about what's happened in this project. And i develop my self and souls for this. Maybe one day it s gonna be change my life for this move.Please don't blame me for this lower-lowel project.",
+  "main": "a",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
 }
